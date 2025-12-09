@@ -4,6 +4,7 @@
 <!-- Joke -->
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
+<img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up.">
 <!--
 **BruColomer/BruColomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
