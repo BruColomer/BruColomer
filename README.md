@@ -4,11 +4,14 @@
 <details>
   <summary>Activity Graph 📈</summary>
   <br/>
-
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=BruColomer&bg_color=ffffff&color=000000&line=04e61b&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
+<details>
+  <summary>Profile Views 👁️</summary>
+  <br/>
+  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
-
 
 
 ## Tecnologies Dominades
