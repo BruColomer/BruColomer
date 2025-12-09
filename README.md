@@ -1,7 +1,17 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=header" alt="header"/> 
 
  </br>
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi!+This+is+Bru+Colomer)](https://git.io/typing-svg)
+
+## Brief introduction
+
+- Name: Bru
+- Student: ASIX
+- Location: Spain
+- Hobies: homelabbing, networking
+
+
 
 ## Github stats 📊
 <details>
@@ -18,7 +28,7 @@
 </details>
 
 
-## Tecnologies Dominades
+## My favorite tools and technologies ⚙️ 
 <!-- Joke -->
 
 <div align="center">
@@ -43,18 +53,7 @@
 
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
+</br>
 
-<!--
-**BruColomer/BruColomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=D9BED1&height=120&section=footer" alt="footer"/>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
