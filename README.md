@@ -1,4 +1,4 @@
-
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=Hi!+This+is+Bru+Colomer)](https://git.io/typing-svg)
 
 ## Tecnologies Dominades
 <!-- Joke -->
