@@ -35,6 +35,8 @@
 	<code><img width="50" src="https://raw.githubusercontent.com/marwin1991/profile-technology-icons/refs/heads/main/icons/raspberri_pi.png" alt="Raspberri Pi" title="Raspberri Pi"/></code>
 </div>
 
+</br>
+
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 
