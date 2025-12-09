@@ -4,7 +4,7 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7F7F7&width=435&lines=Hi!+This+is+Bru+Colomer)](https://git.io/typing-svg)
 
-## Brief introduction
+## Brief introduction 👋
 
 - Name: Bru
 - Student: ASIX
@@ -49,7 +49,10 @@
 </div>
 
 </br>
+</br>
+</br>
 
+### Joke of the day
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 
 </br>
