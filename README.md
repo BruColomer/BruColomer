@@ -9,7 +9,7 @@
 <details>
   <summary>Profile Views 👁️</summary>
   <br/>
-  <img src="https://komarev.com/ghpvc/?username=rzashakerie&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
+  <img src="https://komarev.com/ghpvc/?username=BruColomer&label=PROFILE+VIEWS&style=for-the-badge&color=brightgreen">
 
 </details>
 
