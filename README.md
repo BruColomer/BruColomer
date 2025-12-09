@@ -1,8 +1,7 @@
 # Bru Colomer
 
 ## Tecnologies Dominades
-<img width="836" height="892" alt="image" src="https://github.com/user-attachments/assets/55056fdf-34a7-48e1-ad85-85ff1249275e" />
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=BruColomer)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **BruColomer/BruColomer** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
